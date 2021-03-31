@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Common">
+      <UniqueIdentifier>9ee0624d-220e-4def-881e-0d1ed4339c89</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets">
+      <UniqueIdentifier>0442acd3-d785-4837-aff1-4e47cc36b375</UniqueIdentifier>
+      <Extensions>bmp;fbx;gif;jpg;jpeg;tga;tiff;tif;png</Extensions>
+    </Filter>
+    <Filter Include="Content">
+      <UniqueIdentifier>15ec9d0f-795d-4db5-92dd-ad22533b82d2</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="Common\DirectXHelper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\StepTimer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\DeviceResources.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClCompile Include="Common\DeviceResources.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <Image Include="Assets\LockScreenLogo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\SplashScreen.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square150x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square44x44Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Wide310x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Filter Include="Content\Other">
+      <UniqueIdentifier>{a6c3c2ca-1022-4c78-8bba-a34f00b9bd3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Content\StarySky">
+      <UniqueIdentifier>{ccc7061a-18a9-45ed-ba64-45f2b0f90623}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Content\WireframeTessellatedSphere">
+      <UniqueIdentifier>{cd6fe32a-b859-4533-be9f-f083561c17e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Content\ViewDependentTessellatedSphere">
+      <UniqueIdentifier>{a9fa7205-fa2f-433d-bb5f-86e6aba4375e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Content\BumpMapViewDependentTessellatedSphere">
+      <UniqueIdentifier>{a5717789-e3ac-42e4-9fdf-e14db11a753f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Content\Terrain">
+      <UniqueIdentifier>{b185e903-dcd8-47d3-b98f-0381a3a79be9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Content\Rocks">
+      <UniqueIdentifier>{a14c01a2-913b-462d-855c-11b8fcb81197}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Content\RayTracedSphereCube">
+      <UniqueIdentifier>{f3c39777-00de-454d-8fb1-a0653c4edbc0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Content\RayMarchObjects">
+      <UniqueIdentifier>{36c5ba97-8874-4732-ae71-5dfa1b4be0f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Content\Pottery">
+      <UniqueIdentifier>{f85ce445-fac5-4fb3-9670-cae4b247cd77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Content\Meteors">
+      <UniqueIdentifier>{b9fdf7ae-9170-4d52-9a50-fbdedf523c5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Content\Aliens">
+      <UniqueIdentifier>{b76c441a-7580-4044-9015-e65c20e8eaf5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="App.cpp" />
+    <ClCompile Include="JG_AdvRend_ACW_2Main.cpp" />
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="Camera.cpp">
+      <Filter>Content\Other</Filter>
+    </ClCompile>
+    <ClCompile Include="StarySky.cpp">
+      <Filter>Content\StarySky</Filter>
+    </ClCompile>
+    <ClCompile Include="WireframeTessellatedSphere.cpp">
+      <Filter>Content\WireframeTessellatedSphere</Filter>
+    </ClCompile>
+    <ClCompile Include="ViewDependentTessellatedSphere.cpp">
+      <Filter>Content\ViewDependentTessellatedSphere</Filter>
+    </ClCompile>
+    <ClCompile Include="BumpMapViewDependentTessallatedSphere.cpp">
+      <Filter>Content\BumpMapViewDependentTessellatedSphere</Filter>
+    </ClCompile>
+    <ClCompile Include="Terrain.cpp">
+      <Filter>Content\Terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="Rocks.cpp">
+      <Filter>Content\Rocks</Filter>
+    </ClCompile>
+    <ClCompile Include="RayTracedSphereCube.cpp">
+      <Filter>Content\RayTracedSphereCube</Filter>
+    </ClCompile>
+    <ClCompile Include="Content\Sample3DSceneRenderer.cpp">
+      <Filter>Content\Other</Filter>
+    </ClCompile>
+    <ClCompile Include="Content\SampleFpsTextRenderer.cpp">
+      <Filter>Content\Other</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="RayMarchObjects.cpp">
+      <Filter>Content\RayMarchObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="Pottery.cpp">
+      <Filter>Content\Pottery</Filter>
+    </ClCompile>
+    <ClCompile Include="Meteors.cpp">
+      <Filter>Content\Meteors</Filter>
+    </ClCompile>
+    <ClCompile Include="Aliens.cpp">
+      <Filter>Content\Aliens</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="App.h" />
+    <ClInclude Include="JG_AdvRend_ACW_2Main.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="Camera.h">
+      <Filter>Content\Other</Filter>
+    </ClInclude>
+    <ClInclude Include="StarySky.h">
+      <Filter>Content\StarySky</Filter>
+    </ClInclude>
+    <ClInclude Include="WireframeTessellatedSphere.h">
+      <Filter>Content\WireframeTessellatedSphere</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewDependentTessellatedSphere.h">
+      <Filter>Content\ViewDependentTessellatedSphere</Filter>
+    </ClInclude>
+    <ClInclude Include="BumpMapViewDependentTessallatedSphere.h">
+      <Filter>Content\BumpMapViewDependentTessellatedSphere</Filter>
+    </ClInclude>
+    <ClInclude Include="Terrain.h">
+      <Filter>Content\Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="Rocks.h">
+      <Filter>Content\Rocks</Filter>
+    </ClInclude>
+    <ClInclude Include="RayTracedSphereCube.h">
+      <Filter>Content\RayTracedSphereCube</Filter>
+    </ClInclude>
+    <ClInclude Include="Content\Sample3DSceneRenderer.h">
+      <Filter>Content\Other</Filter>
+    </ClInclude>
+    <ClInclude Include="Content\SampleFpsTextRenderer.h">
+      <Filter>Content\Other</Filter>
+    </ClInclude>
+    <ClInclude Include="Content\ShaderStructures.h">
+      <Filter>Content\Other</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="RayMarchObjects.h">
+      <Filter>Content\RayMarchObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="Pottery.h">
+      <Filter>Content\Pottery</Filter>
+    </ClInclude>
+    <ClInclude Include="Meteors.h">
+      <Filter>Content\Meteors</Filter>
+    </ClInclude>
+    <ClInclude Include="Aliens.h">
+      <Filter>Content\Aliens</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\StoreLogo.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="earth.dds">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="pottery_2.dds">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="lava_rock.dds">
+      <Filter>Assets</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="VS_StarySky.hlsl">
+      <Filter>Content\StarySky</Filter>
+    </FxCompile>
+    <FxCompile Include="GS_StarySky.hlsl">
+      <Filter>Content\StarySky</Filter>
+    </FxCompile>
+    <FxCompile Include="PS_StarySky.hlsl">
+      <Filter>Content\StarySky</Filter>
+    </FxCompile>
+    <FxCompile Include="VS_WireframeTessellatedSphere.hlsl">
+      <Filter>Content\WireframeTessellatedSphere</Filter>
+    </FxCompile>
+    <FxCompile Include="HS_WireframeTessellatedSphere.hlsl">
+      <Filter>Content\WireframeTessellatedSphere</Filter>
+    </FxCompile>
+    <FxCompile Include="DS_WireframeTessellatedSphere.hlsl">
+      <Filter>Content\WireframeTessellatedSphere</Filter>
+    </FxCompile>
+    <FxCompile Include="PS_WireframeTessellatedSphere.hlsl">
+      <Filter>Content\WireframeTessellatedSphere</Filter>
+    </FxCompile>
+    <FxCompile Include="VS_ViewDependentTessellatedSphere.hlsl">
+      <Filter>Content\ViewDependentTessellatedSphere</Filter>
+    </FxCompile>
+    <FxCompile Include="HS_ViewDependentTessellatedSphere.hlsl">
+      <Filter>Content\ViewDependentTessellatedSphere</Filter>
+    </FxCompile>
+    <FxCompile Include="DS_ViewDependentTessellatedSphere.hlsl">
+      <Filter>Content\ViewDependentTessellatedSphere</Filter>
+    </FxCompile>
+    <FxCompile Include="PS_ViewDependentTessellatedSphere.hlsl">
+      <Filter>Content\ViewDependentTessellatedSphere</Filter>
+    </FxCompile>
+    <FxCompile Include="VS_BumpMapViewDependentTessallatedSphere.hlsl">
+      <Filter>Content\BumpMapViewDependentTessellatedSphere</Filter>
+    </FxCompile>
+    <FxCompile Include="PS_BumpMapViewDependentTessellatedSphere.hlsl">
+      <Filter>Content\BumpMapViewDependentTessellatedSphere</Filter>
+    </FxCompile>
+    <FxCompile Include="HS_BumpMapViewDependentTessellatedSphere.hlsl">
+      <Filter>Content\BumpMapViewDependentTessellatedSphere</Filter>
+    </FxCompile>
+    <FxCompile Include="DS_BumpMapViewDependentTessellatedSphere.hlsl">
+      <Filter>Content\BumpMapViewDependentTessellatedSphere</Filter>
+    </FxCompile>
+    <FxCompile Include="GS_BumpMapViewDependentTessellatedSphere.hlsl">
+      <Filter>Content\BumpMapViewDependentTessellatedSphere</Filter>
+    </FxCompile>
+    <FxCompile Include="VS_Terrain.hlsl">
+      <Filter>Content\Terrain</Filter>
+    </FxCompile>
+    <FxCompile Include="PS_Terrain.hlsl">
+      <Filter>Content\Terrain</Filter>
+    </FxCompile>
+    <FxCompile Include="DS_Terrain.hlsl">
+      <Filter>Content\Terrain</Filter>
+    </FxCompile>
+    <FxCompile Include="HS_Terrain.hlsl">
+      <Filter>Content\Terrain</Filter>
+    </FxCompile>
+    <FxCompile Include="VS_Rocks.hlsl">
+      <Filter>Content\Rocks</Filter>
+    </FxCompile>
+    <FxCompile Include="GS_Rocks.hlsl">
+      <Filter>Content\Rocks</Filter>
+    </FxCompile>
+    <FxCompile Include="PS_Rocks.hlsl">
+      <Filter>Content\Rocks</Filter>
+    </FxCompile>
+    <FxCompile Include="VS_RayTracedSphereCube.hlsl">
+      <Filter>Content\RayTracedSphereCube</Filter>
+    </FxCompile>
+    <FxCompile Include="PS_RayTracedSphereCube.hlsl">
+      <Filter>Content\RayTracedSphereCube</Filter>
+    </FxCompile>
+    <FxCompile Include="VS_RayMarchObjects.hlsl">
+      <Filter>Content\RayMarchObjects</Filter>
+    </FxCompile>
+    <FxCompile Include="PS_RayMarchObjects.hlsl">
+      <Filter>Content\RayMarchObjects</Filter>
+    </FxCompile>
+    <FxCompile Include="VS_Pottery.hlsl">
+      <Filter>Content\Pottery</Filter>
+    </FxCompile>
+    <FxCompile Include="PS_Pottery.hlsl">
+      <Filter>Content\Pottery</Filter>
+    </FxCompile>
+    <FxCompile Include="HS_Pottery.hlsl">
+      <Filter>Content\Pottery</Filter>
+    </FxCompile>
+    <FxCompile Include="DS_Pottery.hlsl">
+      <Filter>Content\Pottery</Filter>
+    </FxCompile>
+    <FxCompile Include="GS_Pottery.hlsl">
+      <Filter>Content\Pottery</Filter>
+    </FxCompile>
+    <FxCompile Include="PS_Meteors.hlsl">
+      <Filter>Content\Meteors</Filter>
+    </FxCompile>
+    <FxCompile Include="VS_Meteors.hlsl">
+      <Filter>Content\Meteors</Filter>
+    </FxCompile>
+    <FxCompile Include="HS_Meteors.hlsl">
+      <Filter>Content\Meteors</Filter>
+    </FxCompile>
+    <FxCompile Include="DS_Meteors.hlsl">
+      <Filter>Content\Meteors</Filter>
+    </FxCompile>
+    <FxCompile Include="GS_Meteors.hlsl">
+      <Filter>Content\Meteors</Filter>
+    </FxCompile>
+    <FxCompile Include="VS_Aliens.hlsl">
+      <Filter>Content\Aliens</Filter>
+    </FxCompile>
+    <FxCompile Include="PS_Aliens.hlsl">
+      <Filter>Content\Aliens</Filter>
+    </FxCompile>
+    <FxCompile Include="HS_Aliens.hlsl">
+      <Filter>Content\Aliens</Filter>
+    </FxCompile>
+    <FxCompile Include="DS_Aliens.hlsl">
+      <Filter>Content\Aliens</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <CopyFileToFolders Include="plane.obj">
+      <Filter>Assets</Filter>
+    </CopyFileToFolders>
+    <CopyFileToFolders Include="sphere.obj">
+      <Filter>Assets</Filter>
+    </CopyFileToFolders>
+  </ItemGroup>
+</Project>

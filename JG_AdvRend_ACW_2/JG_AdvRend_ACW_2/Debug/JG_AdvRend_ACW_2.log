@@ -1,0 +1,5 @@
+﻿  compilation object save succeeded; see C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Debug\JG_AdvRend_ACW_2\DS_Aliens.cso
+  compilation object save succeeded; see C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Debug\JG_AdvRend_ACW_2\DS_BumpMapViewDependentTessellatedSphere.cso
+FXC : error X3501: 'main': entrypoint not found
+  
+  compilation failed; no code produced
