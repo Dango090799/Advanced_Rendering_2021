@@ -10,14 +10,14 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>7e36f5cf-835b-42a8-bb86-a83f76e13b81</PackageIdentityName>
     <PackageIdentityPublisher>CN=Jordan</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\Release\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\Release\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\AppX</LayoutDir>
     <RegisteredManifestChecksum>406372103E57FEC034B1F079D362D8B08B58554E2B1CC036A57B5D02CCFAFE35</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>7e36f5cf-835b-42a8-bb86-a83f76e13b81_1.0.0.0_x86__wmyngzxja4wtg</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>7e36f5cf-835b-42a8-bb86-a83f76e13b81_wmyngzxja4wtg!App</RegisteredUserModeAppID>
@@ -26,246 +26,246 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-03-31T10:42:00.194</Modified>
+      <Modified>2021-03-31T11:01:07.556</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2020-12-13T16:25:50.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-12-13T16:25:50.317</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-12-13T16:25:50.317</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-12-13T16:25:50.318</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-12-13T16:25:50.318</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-12-13T16:25:50.319</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-12-13T16:25:50.319</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\DS_Aliens.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\DS_Aliens.cso">
       <PackagePath>DS_Aliens.cso</PackagePath>
-      <Modified>2021-03-30T13:48:46.657</Modified>
+      <Modified>2021-03-31T11:00:55.679</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\DS_BumpMapViewDependentTessellatedSphere.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\DS_BumpMapViewDependentTessellatedSphere.cso">
       <PackagePath>DS_BumpMapViewDependentTessellatedSphere.cso</PackagePath>
-      <Modified>2021-03-27T14:15:49.241</Modified>
+      <Modified>2021-03-31T11:00:55.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\DS_Meteors.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\DS_Meteors.cso">
       <PackagePath>DS_Meteors.cso</PackagePath>
-      <Modified>2021-03-29T10:26:11.130</Modified>
+      <Modified>2021-03-31T11:00:55.827</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\DS_Pottery.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\DS_Pottery.cso">
       <PackagePath>DS_Pottery.cso</PackagePath>
-      <Modified>2021-03-30T13:09:17.131</Modified>
+      <Modified>2021-03-31T11:00:55.894</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\DS_Terrain.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\DS_Terrain.cso">
       <PackagePath>DS_Terrain.cso</PackagePath>
-      <Modified>2021-03-27T14:15:49.380</Modified>
+      <Modified>2021-03-31T11:00:55.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\DS_ViewDependentTessellatedSphere.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\DS_ViewDependentTessellatedSphere.cso">
       <PackagePath>DS_ViewDependentTessellatedSphere.cso</PackagePath>
-      <Modified>2021-03-27T14:15:49.430</Modified>
+      <Modified>2021-03-31T11:00:56.015</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\DS_WireframeTessellatedSphere.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\DS_WireframeTessellatedSphere.cso">
       <PackagePath>DS_WireframeTessellatedSphere.cso</PackagePath>
-      <Modified>2021-03-29T10:36:57.348</Modified>
+      <Modified>2021-03-31T11:00:56.067</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\earth.dds">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\earth.dds">
       <PackagePath>earth.dds</PackagePath>
       <Modified>2021-03-22T12:16:20.427</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\GS_BumpMapViewDependentTessellatedSphere.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\GS_BumpMapViewDependentTessellatedSphere.cso">
       <PackagePath>GS_BumpMapViewDependentTessellatedSphere.cso</PackagePath>
-      <Modified>2021-03-29T10:26:11.200</Modified>
+      <Modified>2021-03-31T11:00:56.136</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\GS_Meteors.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\GS_Meteors.cso">
       <PackagePath>GS_Meteors.cso</PackagePath>
-      <Modified>2021-03-29T10:26:11.267</Modified>
+      <Modified>2021-03-31T11:00:56.206</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\GS_Pottery.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\GS_Pottery.cso">
       <PackagePath>GS_Pottery.cso</PackagePath>
-      <Modified>2021-03-27T14:15:49.607</Modified>
+      <Modified>2021-03-31T11:00:56.270</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\GS_Rocks.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\GS_Rocks.cso">
       <PackagePath>GS_Rocks.cso</PackagePath>
-      <Modified>2021-03-31T09:59:22.412</Modified>
+      <Modified>2021-03-31T11:00:56.343</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\GS_StarySky.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\GS_StarySky.cso">
       <PackagePath>GS_StarySky.cso</PackagePath>
-      <Modified>2021-03-27T14:15:49.744</Modified>
+      <Modified>2021-03-31T11:00:56.401</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\HS_Aliens.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\HS_Aliens.cso">
       <PackagePath>HS_Aliens.cso</PackagePath>
-      <Modified>2021-03-30T12:02:29.168</Modified>
+      <Modified>2021-03-31T11:00:56.458</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\HS_BumpMapViewDependentTessellatedSphere.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\HS_BumpMapViewDependentTessellatedSphere.cso">
       <PackagePath>HS_BumpMapViewDependentTessellatedSphere.cso</PackagePath>
-      <Modified>2021-03-27T14:15:49.795</Modified>
+      <Modified>2021-03-31T11:00:56.514</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\HS_Meteors.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\HS_Meteors.cso">
       <PackagePath>HS_Meteors.cso</PackagePath>
-      <Modified>2021-03-30T12:02:29.221</Modified>
+      <Modified>2021-03-31T11:00:56.567</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\HS_Pottery.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\HS_Pottery.cso">
       <PackagePath>HS_Pottery.cso</PackagePath>
-      <Modified>2021-03-28T11:15:10.746</Modified>
+      <Modified>2021-03-31T11:00:56.621</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\HS_Terrain.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\HS_Terrain.cso">
       <PackagePath>HS_Terrain.cso</PackagePath>
-      <Modified>2021-03-27T14:15:49.901</Modified>
+      <Modified>2021-03-31T11:00:56.676</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\HS_ViewDependentTessellatedSphere.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\HS_ViewDependentTessellatedSphere.cso">
       <PackagePath>HS_ViewDependentTessellatedSphere.cso</PackagePath>
-      <Modified>2021-03-27T14:15:49.953</Modified>
+      <Modified>2021-03-31T11:00:56.731</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\HS_WireframeTessellatedSphere.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\HS_WireframeTessellatedSphere.cso">
       <PackagePath>HS_WireframeTessellatedSphere.cso</PackagePath>
-      <Modified>2021-03-27T14:15:50.005</Modified>
+      <Modified>2021-03-31T11:00:56.785</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\JG_AdvRend_ACW_2.exe">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\JG_AdvRend_ACW_2.exe">
       <PackagePath>JG_AdvRend_ACW_2.exe</PackagePath>
-      <Modified>2021-03-31T10:41:59.890</Modified>
+      <Modified>2021-03-31T11:01:06.941</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\JG_AdvRend_ACW_2.pdb">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\JG_AdvRend_ACW_2.pdb">
       <PackagePath>JG_AdvRend_ACW_2.pdb</PackagePath>
-      <Modified>2021-03-31T10:41:59.896</Modified>
+      <Modified>2021-03-31T11:01:06.945</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\JG_AdvRend_ACW_2.winmd">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\JG_AdvRend_ACW_2.winmd">
       <PackagePath>JG_AdvRend_ACW_2.winmd</PackagePath>
-      <Modified>2021-03-27T14:18:03.788</Modified>
+      <Modified>2021-03-31T11:01:06.671</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\lava_rock.dds">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\lava_rock.dds">
       <PackagePath>lava_rock.dds</PackagePath>
       <Modified>2020-12-03T11:14:26.358</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\plane.obj">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\plane.obj">
       <PackagePath>plane.obj</PackagePath>
       <Modified>2021-03-24T16:09:03.899</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\pottery_2.dds">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\pottery_2.dds">
       <PackagePath>pottery_2.dds</PackagePath>
       <Modified>2021-03-26T18:59:54.599</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_Aliens.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_Aliens.cso">
       <PackagePath>PS_Aliens.cso</PackagePath>
-      <Modified>2021-03-30T13:31:13.615</Modified>
+      <Modified>2021-03-31T11:00:56.843</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_BumpMapViewDependentTessellatedSphere.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_BumpMapViewDependentTessellatedSphere.cso">
       <PackagePath>PS_BumpMapViewDependentTessellatedSphere.cso</PackagePath>
-      <Modified>2021-03-27T14:15:50.063</Modified>
+      <Modified>2021-03-31T11:00:56.904</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_Meteors.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_Meteors.cso">
       <PackagePath>PS_Meteors.cso</PackagePath>
-      <Modified>2021-03-29T10:36:57.472</Modified>
+      <Modified>2021-03-31T11:00:56.963</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_Pottery.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_Pottery.cso">
       <PackagePath>PS_Pottery.cso</PackagePath>
-      <Modified>2021-03-29T09:26:02.939</Modified>
+      <Modified>2021-03-31T11:00:57.022</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_RayMarchObjects.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_RayMarchObjects.cso">
       <PackagePath>PS_RayMarchObjects.cso</PackagePath>
-      <Modified>2021-03-30T11:38:40.558</Modified>
+      <Modified>2021-03-31T11:00:57.896</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_RayTracedSphereCube.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_RayTracedSphereCube.cso">
       <PackagePath>PS_RayTracedSphereCube.cso</PackagePath>
-      <Modified>2021-03-31T09:36:22.312</Modified>
+      <Modified>2021-03-31T11:00:58.189</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_Rocks.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_Rocks.cso">
       <PackagePath>PS_Rocks.cso</PackagePath>
-      <Modified>2021-03-27T14:15:51.066</Modified>
+      <Modified>2021-03-31T11:00:58.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_StarySky.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_StarySky.cso">
       <PackagePath>PS_StarySky.cso</PackagePath>
-      <Modified>2021-03-27T14:15:51.116</Modified>
+      <Modified>2021-03-31T11:00:58.300</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_Terrain.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_Terrain.cso">
       <PackagePath>PS_Terrain.cso</PackagePath>
-      <Modified>2021-03-30T12:02:29.370</Modified>
+      <Modified>2021-03-31T11:00:58.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_ViewDependentTessellatedSphere.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_ViewDependentTessellatedSphere.cso">
       <PackagePath>PS_ViewDependentTessellatedSphere.cso</PackagePath>
-      <Modified>2021-03-27T14:15:51.239</Modified>
+      <Modified>2021-03-31T11:00:58.429</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_WireframeTessellatedSphere.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\PS_WireframeTessellatedSphere.cso">
       <PackagePath>PS_WireframeTessellatedSphere.cso</PackagePath>
-      <Modified>2021-03-27T14:15:51.292</Modified>
+      <Modified>2021-03-31T11:00:58.480</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-03-31T10:42:00.127</Modified>
+      <Modified>2021-03-31T11:01:07.442</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\sphere.obj">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\sphere.obj">
       <PackagePath>sphere.obj</PackagePath>
       <Modified>2019-03-27T18:26:11.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_Aliens.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_Aliens.cso">
       <PackagePath>VS_Aliens.cso</PackagePath>
-      <Modified>2021-03-30T12:02:59.287</Modified>
+      <Modified>2021-03-31T11:00:58.533</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_BumpMapViewDependentTessallatedSphere.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_BumpMapViewDependentTessallatedSphere.cso">
       <PackagePath>VS_BumpMapViewDependentTessallatedSphere.cso</PackagePath>
-      <Modified>2021-03-27T14:15:51.342</Modified>
+      <Modified>2021-03-31T11:00:58.588</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_Meteors.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_Meteors.cso">
       <PackagePath>VS_Meteors.cso</PackagePath>
-      <Modified>2021-03-29T10:36:57.537</Modified>
+      <Modified>2021-03-31T11:00:58.639</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_Pottery.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_Pottery.cso">
       <PackagePath>VS_Pottery.cso</PackagePath>
-      <Modified>2021-03-27T14:15:51.441</Modified>
+      <Modified>2021-03-31T11:00:58.691</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_RayMarchObjects.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_RayMarchObjects.cso">
       <PackagePath>VS_RayMarchObjects.cso</PackagePath>
-      <Modified>2021-03-27T14:15:51.490</Modified>
+      <Modified>2021-03-31T11:00:58.743</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_RayTracedSphereCube.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_RayTracedSphereCube.cso">
       <PackagePath>VS_RayTracedSphereCube.cso</PackagePath>
-      <Modified>2021-03-30T19:47:34.904</Modified>
+      <Modified>2021-03-31T11:00:58.799</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_Rocks.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_Rocks.cso">
       <PackagePath>VS_Rocks.cso</PackagePath>
-      <Modified>2021-03-27T14:15:51.589</Modified>
+      <Modified>2021-03-31T11:00:58.852</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_StarySky.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_StarySky.cso">
       <PackagePath>VS_StarySky.cso</PackagePath>
-      <Modified>2021-03-27T14:15:51.644</Modified>
+      <Modified>2021-03-31T11:00:58.909</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_Terrain.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_Terrain.cso">
       <PackagePath>VS_Terrain.cso</PackagePath>
-      <Modified>2021-03-27T14:15:51.695</Modified>
+      <Modified>2021-03-31T11:00:58.963</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_ViewDependentTessellatedSphere.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_ViewDependentTessellatedSphere.cso">
       <PackagePath>VS_ViewDependentTessellatedSphere.cso</PackagePath>
-      <Modified>2021-03-27T14:15:51.746</Modified>
+      <Modified>2021-03-31T11:00:59.018</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_WireframeTessellatedSphere.cso">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\ilc\VS_WireframeTessellatedSphere.cso">
       <PackagePath>VS_WireframeTessellatedSphere.cso</PackagePath>
-      <Modified>2021-03-27T14:15:51.794</Modified>
+      <Modified>2021-03-31T11:00:59.072</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

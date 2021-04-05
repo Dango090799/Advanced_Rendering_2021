@@ -2,168 +2,168 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2.exe</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\DS_Aliens.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\DS_Aliens.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\DS_BumpMapViewDependentTessellatedSphere.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\DS_BumpMapViewDependentTessellatedSphere.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\DS_Meteors.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\DS_Meteors.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\DS_Pottery.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\DS_Pottery.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\DS_Terrain.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\DS_Terrain.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\DS_ViewDependentTessellatedSphere.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\DS_ViewDependentTessellatedSphere.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\DS_WireframeTessellatedSphere.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\DS_WireframeTessellatedSphere.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\GS_BumpMapViewDependentTessellatedSphere.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\GS_BumpMapViewDependentTessellatedSphere.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\GS_Meteors.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\GS_Meteors.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\GS_Pottery.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\GS_Pottery.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\GS_Rocks.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\GS_Rocks.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\GS_StarySky.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\GS_StarySky.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\HS_Aliens.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\HS_Aliens.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\HS_BumpMapViewDependentTessellatedSphere.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\HS_BumpMapViewDependentTessellatedSphere.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\HS_Meteors.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\HS_Meteors.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\HS_Pottery.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\HS_Pottery.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\HS_Terrain.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\HS_Terrain.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\HS_ViewDependentTessellatedSphere.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\HS_ViewDependentTessellatedSphere.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\HS_WireframeTessellatedSphere.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\HS_WireframeTessellatedSphere.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_Aliens.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_Aliens.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_BumpMapViewDependentTessellatedSphere.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_BumpMapViewDependentTessellatedSphere.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_Meteors.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_Meteors.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_Pottery.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_Pottery.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_RayMarchObjects.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_RayMarchObjects.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_RayTracedSphereCube.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_RayTracedSphereCube.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_Rocks.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_Rocks.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_StarySky.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_StarySky.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_Terrain.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_Terrain.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_ViewDependentTessellatedSphere.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_ViewDependentTessellatedSphere.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_WireframeTessellatedSphere.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\PS_WireframeTessellatedSphere.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_Aliens.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_Aliens.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_BumpMapViewDependentTessallatedSphere.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_BumpMapViewDependentTessallatedSphere.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_Meteors.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_Meteors.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_Pottery.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_Pottery.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_RayMarchObjects.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_RayMarchObjects.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_RayTracedSphereCube.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_RayTracedSphereCube.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_Rocks.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_Rocks.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_StarySky.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_StarySky.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_Terrain.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_Terrain.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_ViewDependentTessellatedSphere.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_ViewDependentTessellatedSphere.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_WireframeTessellatedSphere.cso</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\VS_WireframeTessellatedSphere.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\Assets\LockScreenLogo.scale-200.png</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\Assets\LockScreenLogo.scale-200.png</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\Assets\SplashScreen.scale-200.png</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\Assets\SplashScreen.scale-200.png</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\Assets\Square150x150Logo.scale-200.png</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\Assets\Square150x150Logo.scale-200.png</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\Assets\Square44x44Logo.scale-200.png</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\Assets\Square44x44Logo.scale-200.png</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\Assets\Square44x44Logo.targetsize-24_altform-unplated.png</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\Assets\Square44x44Logo.targetsize-24_altform-unplated.png</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\Assets\StoreLogo.png</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\Assets\StoreLogo.png</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\Assets\Wide310x150Logo.scale-200.png</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\Assets\Wide310x150Logo.scale-200.png</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\earth.dds</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\earth.dds</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\lava_rock.dds</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\lava_rock.dds</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\pottery_2.dds</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\JG_AdvRend_ACW_2\pottery_2.dds</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\plane.obj</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\plane.obj</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\sphere.obj</FullPath>
+      <FullPath>C:\Users\Jordan\Documents\Uni\Year 4\Semester 2\Advanced Rendering Techniques\ACW\QL\Advanced_Rendering_2021\JG_AdvRend_ACW_2\Release\JG_AdvRend_ACW_2\sphere.obj</FullPath>
     </ContentFile>
   </ContentFiles>
   <SatelliteDlls />
